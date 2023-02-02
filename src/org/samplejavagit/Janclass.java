@@ -5,6 +5,8 @@ public class Janclass {
 	{
 		String s="java";
 		System.out.println(s);
+		boolean startsWith = s.startsWith("j");
+		System.out.println(startsWith);
 	}
 
 }
