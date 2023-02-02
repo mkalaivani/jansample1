@@ -5,8 +5,11 @@ public class Janclass {
 	{
 		String s="java";
 		System.out.println(s);
-	}
+		boolean contains = s.contains("a");
+		System.out.println(contains);
+	
 
 }
 
 
+}
